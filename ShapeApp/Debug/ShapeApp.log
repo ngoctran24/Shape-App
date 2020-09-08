@@ -1,0 +1,22 @@
+﻿  Poly.cpp
+c:\users\calem\downloads\shapeapp - copy\shapeapp\poly.cpp(11): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+c:\users\calem\downloads\shapeapp - copy\shapeapp\poly.cpp(11): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+c:\users\calem\downloads\shapeapp - copy\shapeapp\poly.cpp(40): warning C4838: conversion from 'double' to 'LONG' requires a narrowing conversion
+c:\users\calem\downloads\shapeapp - copy\shapeapp\poly.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'LONG', possible loss of data
+  Generating Code...
+  Compiling...
+  Ellipse.cpp
+c:\users\calem\downloads\shapeapp - copy\shapeapp\ellipse.h(7): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\calem\downloads\shapeapp - copy\shapeapp\ellipse.h(19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\calem\downloads\shapeapp - copy\shapeapp\ellipse.h(31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  ShapeApp.cpp
+c:\users\calem\downloads\shapeapp - copy\shapeapp\ellipse.h(7): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\calem\downloads\shapeapp - copy\shapeapp\ellipse.h(19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\calem\downloads\shapeapp - copy\shapeapp\ellipse.h(31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\calem\downloads\shapeapp - copy\shapeapp\rect.h(7): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\calem\downloads\shapeapp - copy\shapeapp\rect.h(19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  ShapeApp.vcxproj -> C:\Users\CALEM\Downloads\ShapeApp - Copy\Debug\ShapeApp.exe
+  ShapeApp.vcxproj -> C:\Users\CALEM\Downloads\ShapeApp - Copy\Debug\ShapeApp.pdb (Full PDB)
